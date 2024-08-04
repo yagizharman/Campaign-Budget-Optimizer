@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CampaingMediaPlanning.props" />
+</Project>
