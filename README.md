@@ -90,10 +90,10 @@ The backend API provides an endpoint to calculate the maximum budget for the tar
 To demonstrate the functionality with different target values and initial guesses, refer to the provided test case images and the descriptions below:
 
 -Test Case 1:
-
+![alt text](https://github.com/yagizharman/Campaign-Budget-Optimizer/blob/main/test_case_1.PNG)
 -Test Case 2:
-
+![alt text](https://github.com/yagizharman/Campaign-Budget-Optimizer/blob/main/test_case_2.PNG)
 -Test Case 3:
-
+![alt text](https://github.com/yagizharman/Campaign-Budget-Optimizer/blob/main/test_case_3.PNG)
 -Test Case 4:
-
+![alt text](https://github.com/yagizharman/Campaign-Budget-Optimizer/blob/main/test_case_4.PNG)
