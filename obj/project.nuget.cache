@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iMUar+GmXiCKiyu0TJ6K8h4t4FUknv+OykMOSPBFyrJHtMp5QBnBGED7Z2PbiqNEU2FTk4cDJgV37djQBR4Y3Q==",
+  "dgSpecHash": "FqrKY3BokjtC24NSYWifLCyiv3CwY4QcKChxvaT/5ooFxpTZwTiBHGcAxMVMpN/VtBwFfhY7hzqTUA4MjqWvZA==",
   "success": true,
-  "projectFilePath": "D:\\YAGIZ\\submitfor\\backend\\CampaingMediaPlanning\\CampaingMediaPlanning.csproj",
+  "projectFilePath": "D:\\YAGIZ\\tryitout\\Campaign-Budget-Optimizer\\CampaingMediaPlanning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yagiz\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "C:\\Users\\yagiz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

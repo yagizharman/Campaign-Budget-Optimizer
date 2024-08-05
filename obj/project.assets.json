@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\YAGIZ\\submitfor\\backend\\CampaingMediaPlanning\\CampaingMediaPlanning.csproj",
+      "projectUniqueName": "D:\\YAGIZ\\tryitout\\Campaign-Budget-Optimizer\\CampaingMediaPlanning.csproj",
       "projectName": "CampaingMediaPlanning",
-      "projectPath": "D:\\YAGIZ\\submitfor\\backend\\CampaingMediaPlanning\\CampaingMediaPlanning.csproj",
+      "projectPath": "D:\\YAGIZ\\tryitout\\Campaign-Budget-Optimizer\\CampaingMediaPlanning.csproj",
       "packagesPath": "C:\\Users\\yagiz\\.nuget\\packages\\",
-      "outputPath": "D:\\YAGIZ\\submitfor\\backend\\CampaingMediaPlanning\\obj\\",
+      "outputPath": "D:\\YAGIZ\\tryitout\\Campaign-Budget-Optimizer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yagiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
